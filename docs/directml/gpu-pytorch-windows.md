@@ -53,7 +53,7 @@ Then, install PyTorch. For our purposes you only need to install the cpu version
 conda install pytorch cpuonly -c pytorch
 ```
 
-Finally, install the PyTorch-DirectML plugin.
+Finally, install the Torch-DirectML plugin.
 ```
 pip install torch-directml
 ```
